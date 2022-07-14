@@ -11,5 +11,7 @@ module.exports = {
       "parser": "@babel/eslint-parser",
       "requireConfigFile": false
     },
-    "rules": {}
+    "rules": {
+      "no-mixed-spaces-and-tabs":0
+    }
 }
